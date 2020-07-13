@@ -21,8 +21,8 @@ The full detailed process is explained in the [Presentation]. Following it and t
         [Apartments for sale](https://github.com/mosegorge/Real-state-ml/blob/master/forsale_cleaning.ipynb)
         /[Apartments for rent](https://github.com/mosegorge/Real-state-ml/blob/master/rent_cleaning.ipynb)
         /[Apartments that sold](https://github.com/mosegorge/Real-state-ml/blob/master/sold_cleaning.ipynb)
- 3. [Exploratory Data Analysis](https://github.com/mosegorge/Real-state-ml/blob/master/EDA.ipynb)
-      [**Interactive Charts**](https://github.com/mosegorge/Real-state-ml/blob/master/Interactive%20charts%20links.md)
+ 3. [Exploratory Data Analysis](https://github.com/mosegorge/Real-state-ml/blob/master/EDA.ipynb):
+        [Interactive Charts](https://github.com/mosegorge/Real-state-ml/blob/master/Interactive%20charts%20links.md)
  4. Predicative and Learning Experiments:
         [Apartments for rent price prediction] 
         /[Apartments for sale price prediction] 
