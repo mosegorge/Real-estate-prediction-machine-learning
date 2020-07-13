@@ -12,9 +12,9 @@ This project is intended to be a walkthrough on Data science process from end to
 In the current project, I chose to focus on the prices of apartments for sale and for rent in the Land of Israel.
 The main goal is to gain intresting insights from the data, analyze them and finally to create a **Predicative Mechine-learning model** to predict asset prices
 
-The full detailed process is explained in the **Presentation**. Following it and the different notebooks should be necessary for reaching a full understanding of the project.
+The full detailed process is explained in the [Presentation]. Following it and the different notebooks should be necessary for reaching a full understanding of the project.
 
-The project consists of the following steps:
+**The project consists of the following steps**:
 
  1. [Data acquisition(scraping)]
  2. [Data cleaning and processing]
