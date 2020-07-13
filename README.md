@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://www.viewstorm.com/wp-content/uploads/2018/08/Real-Estate-Market.png" height="100" width="300">
+  <img src="https://www.viewstorm.com/wp-content/uploads/2018/08/Real-Estate-Market.png" height="200" width="600">
 </p>
 
 In this page i will show you my **data science project** .
