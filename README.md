@@ -1,8 +1,8 @@
 # Real estate in israel
 
 <br/>
-<p align="left">
-  <img src="https://freepikpsd.com/wp-content/uploads/2019/10/png-real-estate-4-1-Transparent-Images.png" height="300" width="300">
+<p align="center">
+  <img src="https://www.viewstorm.com/wp-content/uploads/2018/08/Real-Estate-Market.png" height="100" width="300">
 </p>
 
 In this page i will show you my **data science project** .
