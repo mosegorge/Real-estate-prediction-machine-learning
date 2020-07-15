@@ -16,13 +16,14 @@ The full detailed process is explained in the [Presentation], Following it and t
 
 **The project consists of the following steps**:
 
- 1. [Data acquisition(scraping)](https://github.com/mosegorge/Real-state-ml/blob/master/scraping%20and%20framing.ipynb)
+ 1. Data acquisition:[Scraping process](https://github.com/mosegorge/Real-state-ml/blob/master/scraping%20and%20framing.ipynb)
  2. Data cleaning and processing: 
         [Apartments for sale](https://github.com/mosegorge/Real-state-ml/blob/master/forsale_cleaning.ipynb)
         / [Apartments for rent](https://github.com/mosegorge/Real-state-ml/blob/master/rent_cleaning.ipynb)
         / [Apartments that sold](https://github.com/mosegorge/Real-state-ml/blob/master/sold_cleaning.ipynb)
- 3. Exploratory Data Analysis:[EDA](https://github.com/mosegorge/Real-state-ml/blob/master/EDA.ipynb)
-       / [Interactive Charts](https://github.com/mosegorge/Real-state-ml/blob/master/Interactive%20charts%20links.md)
+ 3. Exploratory Data Analysis:
+        [EDA](https://github.com/mosegorge/Real-state-ml/blob/master/EDA.ipynb)
+        / [Interactive Charts](https://github.com/mosegorge/Real-state-ml/blob/master/Interactive%20charts%20links.md)
  4. Predicative and Learning Experiments:
         [Apartments for rent price prediction](https://github.com/mosegorge/Real-state-ml/blob/master/ML-rental%20price%20prediction.ipynb)
         / [Apartments for sale price prediction](https://github.com/mosegorge/Real-state-ml/blob/master/ML-apartments%20for%20sale%20price%20prediction.ipynb)
@@ -35,4 +36,4 @@ The full detailed process is explained in the [Presentation], Following it and t
   
   
 
-For any comments, suggestions or everything else, you can find me at my [Mail](mailto:moshikogorgy@gmail.com) or [linkedin](https://www.linkedin.com/in/moshe-george2311/)
+For any comments, suggestions or everything else, you can find me at my [Mail](mailto:moshikochiko@gmail.com) or [linkedin](https://www.linkedin.com/in/moshe-george2311/)
