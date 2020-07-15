@@ -1,4 +1,5 @@
 # Real-Estate in Israel:
+### Data-science final project
 
 <br/>
 <p align="center">
@@ -16,7 +17,8 @@ The full detailed process is explained in the [Presentation], Following it and t
 
 **The project consists of the following steps**:
 
- 1. Data acquisition:[Scraping process](https://github.com/mosegorge/Real-state-ml/blob/master/scraping%20and%20framing.ipynb)
+ 1. Data acquisition:
+        [Scraping process](https://github.com/mosegorge/Real-state-ml/blob/master/scraping%20and%20framing.ipynb)
  2. Data cleaning and processing: 
         [Apartments for sale](https://github.com/mosegorge/Real-state-ml/blob/master/forsale_cleaning.ipynb)
         / [Apartments for rent](https://github.com/mosegorge/Real-state-ml/blob/master/rent_cleaning.ipynb)
