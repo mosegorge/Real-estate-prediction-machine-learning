@@ -28,6 +28,7 @@ The full detailed process is explained in the [Presentation]. Following it and t
         /[Apartments for sale price prediction] (https://github.com/mosegorge/Real-state-ml/blob/master/ML-apartments%20for%20sale%20price%20prediction.ipynb
 
 **Web app(via Anvil):**
+
 [**Rent Value Calculator**](https://rent-value-calculator.anvil.app)
 
 [**Asset Value Calculator**](https://asset-value-calculator.anvil.app)
