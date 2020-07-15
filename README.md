@@ -25,7 +25,7 @@ The full detailed process is explained in the [Presentation]. Following it and t
         [Interactive Charts](https://github.com/mosegorge/Real-state-ml/blob/master/Interactive%20charts%20links.md)
  4. Predicative and Learning Experiments:
         [Apartments for rent price prediction](https://github.com/mosegorge/Real-state-ml/blob/master/ML-rental%20price%20prediction.ipynb)
-        /[Apartments for sale price prediction] (https://github.com/mosegorge/Real-state-ml/blob/master/ML-apartments%20for%20sale%20price%20prediction.ipynb
+        /[Apartments for sale price prediction] (https://github.com/mosegorge/Real-state-ml/blob/master/ML-apartments%20for%20sale%20price%20prediction.ipynb)
 
 **Web app(via Anvil):**
 
