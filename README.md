@@ -24,8 +24,14 @@ The full detailed process is explained in the [Presentation]. Following it and t
  3. [Exploratory Data Analysis](https://github.com/mosegorge/Real-state-ml/blob/master/EDA.ipynb):
         [Interactive Charts](https://github.com/mosegorge/Real-state-ml/blob/master/Interactive%20charts%20links.md)
  4. Predicative and Learning Experiments:
-        [Apartments for rent price prediction] 
-        /[Apartments for sale price prediction] 
+        [Apartments for rent price prediction](https://github.com/mosegorge/Real-state-ml/blob/master/ML-rental%20price%20prediction.ipynb)
+        /[Apartments for sale price prediction] (https://github.com/mosegorge/Real-state-ml/blob/master/ML-apartments%20for%20sale%20price%20prediction.ipynb
 
+**Web app(via Anvil):**
+[**Rent Value Calculator**](https://rent-value-calculator.anvil.app)
+
+[**Asset Value Calculator**](https://asset-value-calculator.anvil.app)
+  
+  
 
 For any comments, suggestions or everything else, you can find me at my [Mail](mailto:moshikogorgy@gmail.com) or [linkedin](https://www.linkedin.com/in/moshe-george2311/)
