@@ -10,7 +10,7 @@ In this page i will show you my **Data science project** .
 
 This project is intended to be a walkthrough on **Data science process from end to end**.
 
-In the current project, I chose to focus on the prices of apartments for sale and for rent in the Land of Israel.
+In the current project, I chose to focus on the prices of apartments for sale and rent in the Land of Israel.
 The main goal is to gain intresting insights from the data, analyze them and finally to create a **Predicative Mechine-learning model** to predict asset prices
 
 The full detailed process is explained in the [Presentation](https://github.com/mosegorge/Real-state-ml/blob/master/Data%20science%20Real-estate%20in%20Israel%20present.pptx), Following it and the different notebooks should be necessary for reaching a full understanding of the project.
