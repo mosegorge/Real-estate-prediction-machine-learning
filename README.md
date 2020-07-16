@@ -6,7 +6,7 @@
   <img src="https://www.viewstorm.com/wp-content/uploads/2018/08/Real-Estate-Market.png" height="200" width="600">
 </p>
 
-In this page i will show you my **data science project** .
+In this page i will show you my **Data science project** .
 
 This project is intended to be a walkthrough on **Data science process from end to end**.
 
