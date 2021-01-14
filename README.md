@@ -3,7 +3,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3d/88/8f/3d888ffcdf8eb1930e11c99f64cc5e52.png" height="200" width="600">
+  <img src="https://i.pinimg.com/originals/3d/88/8f/3d888ffcdf8eb1930e11c99f64cc5e52.png" height="400" width="500">
 </p>
 
 In this page i will show you my **Data science project** .
